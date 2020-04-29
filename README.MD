@@ -1,0 +1,1 @@
+# GOF Design Patterns written on Kotlin which represents handful and clean variations to use them.
